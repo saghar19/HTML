@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="apple-touch-icon" sizes="57x57" href="favicon/apple-icon-57x57.jpg">
+<link rel="apple-touch-icon" sizes="60x60" href="favicon/apple-icon-60x60.jpg">
+<link rel="apple-touch-icon" sizes="72x72" href="favicon/apple-icon-72x72.jpg">
+<link rel="apple-touch-icon" sizes="76x76" href="favicon/apple-icon-76x76.jpg">
+<link rel="apple-touch-icon" sizes="114x114" href="favicon/apple-icon-114x114.jpg">
+<link rel="apple-touch-icon" sizes="120x120" href="favicon/apple-icon-120x120.jpg">
+<link rel="apple-touch-icon" sizes="144x144" href="favicon/apple-icon-144x144.jpg">
+<link rel="apple-touch-icon" sizes="152x152" href="favicon/apple-icon-152x152.jpg">
+<link rel="apple-touch-icon" sizes="180x180" href="favicon/apple-icon-180x180.jpg">
+<link rel="icon" type="image/jpg" sizes="192x192"  href="favicon/android-icon-192x192.jpg">
+<link rel="icon" type="image/jpg" sizes="32x32" href="favicon/favicon-32x32.jpg">
+<link rel="icon" type="image/jpg" sizes="96x96" href="favicon/favicon-96x96.jpg">
+<link rel="icon" type="image/jpg" sizes="16x16" href="favicon/favicon-16x16.jpg">
+<link rel="manifest" href="favicon/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.jpg">
+<meta name="theme-color" content="#ffffff">
+	<title></title>
+</head>
+
+<body>
+	<table border="1" bordercolor="green" background="image/flower.jpg">
+		<tr>
+			<td>Row 1 , Column1</td>
+			<td>Row 1, Column 2</td>
+		</tr>
+		<tr>
+			<td>Row 2, Column 1</td>
+			<td>Row 2, Column 2</td>
+		</tr>
+	</table>
+
+	<table border="1" Cellpadding="5"Celspacing="5">
+		<tr>
+			<th>Name</th>
+			<th>Salery</th>
+			<tr>
+				<td>Ramesh Raman</td>
+				<td>5000</td>
+			</tr>
+			<tr>
+				<td>Shabbir Hussein</td>
+				<td>7000</td>
+			</tr>
+		</tr>
+	</table>
+	<table border="1">
+		<tr>
+			<th>Column 1</th>
+			<th>Column 2</th>
+			<th>Column 3</th>
+		</tr>
+		<tr>
+			<td rowspan="2">Row 1, Cell 1</td>
+			<td>Row 1, Cell 2</td>
+			<td>Row 1, Cell 3</td>
+		</tr>
+		<tr>
+			<td>Row 2, Cell 2</td>
+			<td>Row 2, Cell 3</td>
+		</tr>
+		<tr>
+			<td Colspan="3">Row 3 Cell 1</td>
+		</tr>
+	</table>
+	<table border="1" bordercolor="red" bgcolor="purple">
+		<tr>
+			<th>Column 1</th>
+			<th>Column 2</th>
+			<th>Column 3</th>
+		</tr>
+		<tr>
+			<td rowspan="2">Row 1, Cell 1</td>
+			<td>Row 1, Cell 2</td>
+			<td>Row 1, Cell 3</td>
+		</tr>
+		<tr>
+			<td>Row 2, Cell 2</td>
+			<td>Row 2, Cell 3</td>
+		</tr>
+		<tr>
+			<td colspan="3">Row 3,Cell 1</td>
+		</tr>
+	</table>
+	<table >
+		
+	</table>
+
+</body>
+</html>
