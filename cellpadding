@@ -1,0 +1,17 @@
+	<table border="1" Cellpadding="5"Celspacing="5">
+		<tr>
+			<th>Name</th>
+			<th>Salery</th>
+			<tr>
+				<td>Ramesh Raman</td>
+				<td>5000</td>
+			</tr>
+			<tr>
+				<td>Shabbir Hussein</td>
+				<td>7000</td>
+			</tr>
+		</tr>
+	</table>
+
+</body>
+</html>
