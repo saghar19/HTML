@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Recume</title>
+</head>
+<body>
+	<h1>My Name</h1>
+	<br>
+	<hr>
+	<br>
+
+	<h2>Profile</h2>
+	<br>
+	<p>
+		I had experience in the field of Agriculturel and Identification and weeds control. I have keen interest to work in the nature. I consider myself as an organized and a problem solving person who can figure out the affair with discipline and patience. 
+	</p>
+	<br>
+	<hr>
+	<br>
+
+	<h2>Work Exp</h2>
+	<ol>
+		<li>Weed control</li>
+		<li>Agriculture</li>
+	</ol>
+	<br>
+	<hr>
+	<br>
+	<h2>Study</h2>
+	<ol>
+	<li>Bachlor of Botanical</li>
+	<li>Master Degree of Identification and weeds control</li>		
+	</ol>
+	<br>
+	<hr>
+	<br>
+	<h2>Skills</h2>
+	<table border="1" cellpadding="20" cellspacing="10">
+		<tr>
+			<td>Botanical</td>
+			<td>identification</td>
+		</tr>
+		<tr>
+			<td>Toxicology</td>
+			<td>pest and diseases control</td>
+		</tr>
+		<tr>
+			<td>Diagnosis of plant diseases</td>
+			<td>control</td>
+		</tr>
+	</table>
+
+</body>
+</html>
