@@ -1,0 +1,21 @@
+.foot{
+	background-color: black;
+	color: white;
+}
+
+#index{
+	background-image: url("../image/bgimage.jpg");
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+	
+}
+
+div{
+	background-color: white;
+}
+.flag{
+	width: 30px;
+	height: 30px;	
+}
