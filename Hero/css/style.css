@@ -1,0 +1,87 @@
+body {
+	background-image: url(../image/wonder.jpg);
+	background-attachment: fixed;
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	font-family: 'Bangers', cursive;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: rgba(0, 0, 0, 0.5);
+
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: #fff;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover{
+  background-color: #000000;
+}
+div.container{
+	background-color: rgba(194, 184, 184, 0.7);
+	font-size: 1.2em;
+	height: 2500px;
+		font-family: 'Bangers', cursive;
+		
+}
+        
+        .article:after {
+            border-right: 1px solid white;
+            height: 200px;
+
+        }
+
+        .section {
+            width: 200px;
+            height: 300px;
+            overflow: hidden;
+            padding: 20px 30px 30px 20px;
+        }
+        
+        hr {
+            width: 600px;
+            margin: 30px auto 50px auto;
+        }
+        
+        h1 {
+            text-align: center;
+            color: white;
+        }
+        h5 {
+        	color: white;
+        }
+        
+        .pic1 {
+            margin: 0 auto;
+        }
+        
+        .pic2 {
+            margin: 0 auto;
+        }
+        
+        .pic3 {
+            margin: 0 auto;
+        }
+        
+
+.myPic{
+	 width: 200px;
+	 height: 200px;
+}
+.mypic1{
+	width: 300px; 
+	height: 200px;
