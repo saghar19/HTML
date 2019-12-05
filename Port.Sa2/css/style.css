@@ -1,0 +1,187 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+#index{
+	background-image: url(../image/b.jpg);
+	background-attachment: fixed;
+	background-position: center center;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.container-fluid{
+	margin: 0px;
+	padding:0px;
+}
+
+.promo{
+	position:relative;
+	background: black;
+	height: 100vh;
+	font-family: 'Russo One', sans-serif;
+}
+
+.caption{
+	position: absolute;
+	bottom:250px;
+	width: 100%;
+	color: white;
+	text-align: center;
+	background-color: rgba(0,0,0,0.5);
+	font-size: 3em;
+	animation: mymove 3s 1 ease-out;
+}
+
+.caption p:last-of-type{
+	border-top: 1px solid white;
+	padding-top: 5px;
+	padding-bottom: 10px;
+}
+
+@keyframes mymove {
+    from {bottom: 0px;}
+    to {bottom: 250;}
+}
+
+.start{
+	/*position:absolute;
+	bottom: 0;*/
+	text-align: center;
+	color: black;
+	/*margin-left: 48%;*/
+	cursor: pointer;
+	background-color: white;
+}
+#button_start{
+	margin: 0;
+ 	 position: absolute;
+  	top: 90%;
+  	left: 50%;
+}
+
+.start:hover{
+
+	border-radius: 2px;
+	animation: startbtn 1s;
+	animation-fill-mode: forwards;
+	padding: 15px;
+}
+
+@keyframes startbtn{
+
+    0%   {background-color: black;}
+    100% {background-color: rgba(255, 255, 255, 0.8);}
+}
+
+.InitialPage a{
+	text-decoration: none;
+}
+
+@keyframes startColor{
+	0%{color:black;}
+	100%{color:white;}
+}
+#b{
+	width: 1500px;
+	height: 700px;
+}
+nav{
+	background-color: rgba(0,0,0,0.5);
+}
+
+nav a:hover{
+	
+	/*text-shadow: 2px 2px black;*/
+	background-color: rgba(0,0,0,0);
+	border-radius: 5px;
+
+}
+#logoHome{
+	height: 50px;
+	width: 50px;
+	margin-right: 10px;
+}
+.container{
+	background:hsl(0, 20%, 50%);
+	background-attachment: fixed;
+	background-position: center center;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+p:last-of-type{
+	margin-bottom: 0px;
+}
+
+h2{
+	font-family: 'Russo One', sans-serif;
+	padding:20px;
+	font-size: 3em;
+	color: white;
+}
+p,h3,li{
+	color: rgb(0, 0, 0);
+}
+body {
+	background:url(../image/back3.jpg);
+}
+#img{
+	width: 100px;
+	height: 100px;
+}
+
+#img1{
+	width: 500px;
+	height: 600px;
+	position: relative;
+}
+#img3{
+	width: 100px;
+	height: 100px;
+
+
+
+}
+#img2{
+	width: 900px;
+	height: 900px;
+}
+#img5{
+	width: 400px;
+	height: 300px;
+}
+#img6{
+	width: 400px;
+	height: 300px;
+}
+#myimg{
+	width: 600px;
+	height: 500px;
+}
+#myimg2{
+	width: 300px;
+	height: 500px;
+}
+#myimg3{
+	width: 300px;
+	height: 500px;
+}
+#myimg1{
+	width: 300px;
+	height: 500px;
+}
+
+
+#bg{
+	width: 100%;
+}	
+
+#but{
+	text-align: center;
+}
+.resume{
+	height: 1200px;
+	width: 888px;
+	margin: 50px;
+	position: relative;
+	left: 15%;
+}
