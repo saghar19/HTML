@@ -1,0 +1,121 @@
+ body {
+  background-color:rgba(255, 0, 0, 0.6);
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center center;
+  background-repeat:no-repeat;
+  font-family: 'Bangers', cursive;
+  height: 700px;
+}
+
+
+.container{
+background-color:rgba(255, 0, 0, 0.2);
+}
+nav{
+  background-color: #1b191c;
+}
+nav div{
+  background-color: #1b191c;
+}
+.logo{
+  width: 35px;
+  height: 50px;
+  margin: 5px;
+}
+
+#pic1{
+  max-width:500px;
+  max-height:600px;
+  position: center;
+}
+#pic2{
+  max-width:500px;
+  max-height:600px;
+  position: center;
+}
+#pic3{
+  max-width:500px;
+  max-height:600px;
+  position: center;
+}
+#pic4{
+  max-width:500px;
+  max-height:600px;
+  position: center;
+}
+.carousel {
+  width:400px;
+  height:500px;
+  margin: 20px auto;
+}
+.topHeader{
+     margin: 0 auto;
+     background-color: #dedcdf;
+     padding: 65px;
+}
+.footer a{
+  color: white;
+}
+.carouselIcon{
+  font-size: 2em;
+  color: #9e220f;
+}
+.icon{
+  font-size: 2em;
+  margin: 10px;
+}
+ .main{
+     margin: 30px;
+     padding: 20px;
+}
+.main div{
+  border-right: 2px solid white;
+  margin-bottom: 50px;
+}
+.carousel-control-prev-icon {
+  background-color: red;
+}
+
+.carousel-control-next-icon {
+  background-color: red;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+
+
+a{
+  text-decoration: none;
+}
+footer{
+  color: black;
+  text-align: center;
+}
+.carouselIcon{
+  font-size: 2em;
+  color: #9e220f;
+}
+.icon{
+  font-size: 2em;
+  margin: 10px;
+
+}
+ .main{
+     margin: 30px;
+     padding: 20px;
+}
+.main div{
+  border-right: 2px solid white;
+  margin-bottom: 50px;
+}
